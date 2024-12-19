@@ -34,6 +34,8 @@ O código irá capturar a imagem da webcam, aplicar o modelo YOLOv8 e mostrar as
 
 📸 Demonstração
 
+![HackAçu](https://github.com/sthrmzy/Binary/blob/main/images/preview2.jpeg)
+
 Imagem acima mostra a detecção de objetos (como veículos) em tempo real, utilizando o modelo YOLOv8.
 
 ## 💡 Como Funciona
