@@ -21,7 +21,7 @@ O objetivo do projeto foi criar uma solução que permite detectar a ocupação 
 
 ### 1. Instalar Dependências
 
-Para rodar o projeto localmente, primeiro instale as dependências necessárias. Utilize o `pip` para instalar as bibliotecas necessárias:
+Para rodar o projeto localmente, primeiro instale as dependências necessárias. Utilize o `pip` para instalar as bibliotecas necessárias.
 
 ### 2. Baixar o Modelo YOLOv8
 Baixe o modelo YOLOv8 pré-treinado (yolov8x.pt) do repositório oficial ou utilize o modelo desejado para a detecção. Coloque o arquivo .pt na mesma pasta onde o script será executado.
